@@ -2,7 +2,7 @@
 We made game of life in real time with possibility make game faster or slower
 
 To start the game ypu need to whrite in your terminal:
-    ``` bash
+    ```bash
     gcc -Wall -Wextra -Werror -lncurses <name_of_test.txt
     ```
 ![gcc_photo](pictures/gcc_photo.png)
