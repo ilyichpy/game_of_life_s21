@@ -10,7 +10,7 @@ Then we need to run ./a.out with one of the test file
     ./a.out <ur_test_name.txt
 ![a.out](pictures/a.out_photo.png)
 
-This game was made in white and blue colors and loogs pretty good for terminal
+This game was made in white and blue colors and looks pretty good for terminal
 
 ![gameplay](pictures/Gameplay.png)
 
